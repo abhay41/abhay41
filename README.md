@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hey there, I'm Abhay 👋</h1>
+<p align="center">
+    💻 Final-Year CSE Student | 🌐 Cloud & DevOps Practitioner | 🧠 AI/ML Explorer
+</p>
 
-<!--
-**abhay41/abhay41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhay-thakur-614b1a2b4/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="tabhay6408@gmail.com"><img src="https://img.shields.io/badge/-Email-informational?style=for-the-badge&logo=gmail" /></a>
+  <a href="abhaythakur41.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-0e76a8?style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+🔧 A driven technologist with a strong foundation in **Cloud Computing, DevOps Practices, and AI/ML**  
+🎯 Passionate about building **reliable, automated, and scalable systems**  
+📈 Currently working on containerized full-stack apps using **Docker + Kubernetes + CI/CD**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+```bash
+🌐 Languages:    Python, JavaScript, Bash, SQL  
+🛠️ DevOps:       Docker, Kubernetes, Ansible, GitHub Actions, Terraform  
+☁️ Cloud:        AWS (EC2, S3, IAM), GCP (basics), Linux Server Management  
+🧠 AI/ML:        TensorFlow, Keras, Pandas, OpenCV, Colab  
+🗃️ Databases:    MySQL  
+🧰 Others:       Linux, Git, Nginx, VS Code
