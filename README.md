@@ -8,12 +8,13 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="mailto:tabhay6408@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tabhay6408@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://abhaythakur41.netlify.app/">
     <img src="https://img.shields.io/badge/-Portfolio-0e76a8?style=for-the-badge&logo=internet-explorer&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
