@@ -30,9 +30,23 @@
 ### 🛠️ Tech Stack & Tools
 
 ```bash
-🌐 Languages:    Python, JavaScript, Bash, SQL  
-🛠️ DevOps:       Docker, Kubernetes, Ansible, GitHub Actions, Terraform  
-☁️ Cloud:        AWS (EC2, S3, IAM), GCP (basics), Linux Server Management  
-🧠 AI/ML:        TensorFlow, Keras, Pandas, OpenCV, Colab  
-🗃️ Databases:    MySQL  
-🧰 Others:       Linux, Git, Nginx, VS Code
+🌐 Languages: Python, Java
+
+🛠️ DevOps & CI/CD:
+Docker (containerization, multistage builds), Kubernetes (deployment, Helm charts), Ansible (automation, playbooks), Jenkins (pipeline creation, automation), GitHub Actions (CI/CD workflows), Terraform (IaC for cloud infrastructure)
+
+☁️ Cloud & Server Management:
+AWS (EC2, S3, IAM), Linux server administration and shell scripting
+
+📊 Monitoring & Observability:
+Prometheus (metrics collection and alerting), Grafana (dashboard visualization and monitoring)
+
+🧠 AI/ML Tools:
+TensorFlow, Keras, Pandas, OpenCV, Google Colab, Kaggle
+
+🗃️ Databases:
+MySQL (database design, integration)
+
+🧰 Others & Tools:
+Linux OS, Git version control, Nginx (web server configuration), VS Code (development environment, debugging)
+
