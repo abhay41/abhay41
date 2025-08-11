@@ -3,19 +3,6 @@
     💻 Final-Year CSE Student | 🌐 Cloud & DevOps Practitioner | 🧠 AI/ML Explorer
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhay-thakur-614b1a2b4/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="https://abhaythakur41.netlify.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-0e76a8?style=for-the-badge&logo=internet-explorer&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  📬 Email me: <a href="mailto:tabhay6408@gmail.com">tabhay6408@gmail.com</a>
-</p>
-
 
 ---
 
